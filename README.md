@@ -2,6 +2,9 @@
 
 This is a full-stack todo application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack with user authentication.
 
+
+https://github.com/imshree03/Todo-Hosting-TNIT-/assets/107460907/1c8addef-d7cb-4214-ac9e-97433fcff50f
+
 ## Features
 
 - User authentication (signup, login, logout)
@@ -22,7 +25,6 @@ This is a full-stack todo application built using the MERN (MongoDB, Express.js,
 - Material-UI: React UI framework for styling components
 
 
-https://github.com/imshree03/Todo-Hosting-TNIT-/assets/107460907/1c8addef-d7cb-4214-ac9e-97433fcff50f
 
 
 ## Getting Started
