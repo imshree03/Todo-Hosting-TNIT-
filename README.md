@@ -21,8 +21,7 @@ https://github.com/imshree03/Todo-Hosting-TNIT-/assets/107460907/1c8addef-d7cb-4
 - Node.js: Backend environment for server-side logic
 - Mongoose: MongoDB object modeling for Node.js
 - Axios: HTTP client for making API requests
-- JWT (JSON Web Tokens): For user authentication and authorization
-- Material-UI: React UI framework for styling components
+
 
 
 
